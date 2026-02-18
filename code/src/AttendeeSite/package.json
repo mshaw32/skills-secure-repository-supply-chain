@@ -13,7 +13,7 @@
     "@azure/arm-resources": "^2.1.0",
     "@azure/graph": "^5.0.1",
     "request-promise": "^4.2.5",
-    "follow-redirects": "1.14.1",
+    "follow-redirects": "1.14.1"
    }
   }
     "@azure/ms-rest-nodeauth": "^3.0.3",
